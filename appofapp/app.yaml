@@ -12,6 +12,6 @@ spec:
     path: app
     repoURL: https://github.com/siamaksade/openshift-gitops-getting-started
     targetRevision: HEAD
-  syncPolicy:
-    automated: {}
+  syncPolicy: {}
+    
 
